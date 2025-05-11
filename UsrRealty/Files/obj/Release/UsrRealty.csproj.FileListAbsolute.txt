@@ -1,0 +1,9 @@
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\Bin\UsrRealty.dll
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\Bin\UsrRealty.pdb
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.csproj.AssemblyReference.cache
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.GeneratedMSBuildEditorConfig.editorconfig
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.AssemblyInfoInputs.cache
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.AssemblyInfo.cs
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.csproj.CoreCompileInputs.cache
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.dll
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.pdb
