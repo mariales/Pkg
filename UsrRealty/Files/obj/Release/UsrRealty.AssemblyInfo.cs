@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsrRealty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.2.2.1870")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.2.2.1870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.2.2.1870+52637307eb70dfa7d7cc4c5674baa3b15422c854")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsrRealty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsrRealty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.2.2.1870")]

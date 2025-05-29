@@ -3,3 +3,6 @@ build_property.RootNamespace = UsrRealty
 build_property.ProjectDir = C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

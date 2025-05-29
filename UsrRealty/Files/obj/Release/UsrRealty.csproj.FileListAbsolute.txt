@@ -7,3 +7,4 @@ C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\ob
 C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.csproj.CoreCompileInputs.cache
 C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.dll
 C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.pdb
+C:\CREATIO\D8Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.sourcelink.json
